@@ -1,4 +1,4 @@
-## Project Name: Exdos - Creative Agency Landing Page
+## Exdos - Creative Agency Landing Page
 
 # Description:
 A fully responsive and modern landing page template for a creative agency. Designed to showcase services, portfolios, team members, and client testimonials with smooth animations and interactive elements.
